@@ -27,12 +27,12 @@ background-image: url("../position-1/position-1/img/bg.jpg");
 
 .planet-3 {
     bottom:5%;
-    left: 24%;
+    left: 2%;
     z-index: 3;
 }
 .spaceship{
     top:38%;
-    left: 24%;
+    left: 23%;
     z-index: 2;
 }
 
